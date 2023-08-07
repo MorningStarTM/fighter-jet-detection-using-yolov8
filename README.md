@@ -25,4 +25,4 @@ The model has been trained on a custom dataset containing a set of images contai
 ![App Screenshot](https://github.com/MorningStarTM/fighter-jet-detection-using-yolov8/blob/main/Predictions/204b85fe-frame_9790.jpg?raw=true)
 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/MorningStarTM/fighter-jet-detection-using-yolov8/blob/main/results/output.mp4)
+Real-Time Fighter Jet detection video attached https://github.com/MorningStarTM/fighter-jet-detection-using-yolov8/blob/main/results/output.mp4
