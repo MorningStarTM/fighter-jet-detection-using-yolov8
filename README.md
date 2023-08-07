@@ -4,7 +4,7 @@ This repository contains the implementation of YOLOv8 for detecting fighter jets
 
 <br>
 <br>
-Note: in this project, helper.py file was used. toy can find that that code https://github.com/python-dontrepeatyourself/Real-time-Object-Tracking-with-DeepSORT-and-YOLOv8
+Note: You can find helper.py code file https://github.com/python-dontrepeatyourself/Real-time-Object-Tracking-with-DeepSORT-and-YOLOv8
 
 # DataSet
 The model has been trained on a custom dataset containing a set of images containing fighter jets. Annotations for object detection were prepared using bounding box annotations.
